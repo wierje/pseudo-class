@@ -10,13 +10,13 @@ li {
 }
 
 span {
+  background-color: #fff;
   display: block;
   border: 1px solid black;
   margin: 25px;
 }
 
 .n-child {
-  background-color: #fff;
   background-color: palegreen;
 }
 
