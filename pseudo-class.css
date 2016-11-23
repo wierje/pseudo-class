@@ -1,8 +1,32 @@
 body {
   background-color: #efefef;
+  padding: 10%;
 }
 
 li {
   display: inline;
   list-style: none;
+  margin-left: 25px;
 }
+
+span {
+  display: block;
+  border: 1px solid black;
+  margin: 25px;
+}
+
+.n-child {
+  background-color: #fff;
+  background-color: palegreen;
+}
+
+.n-child section:nth-of-type(even) {
+  border: 1px solid black;
+}
+
+
+
+
+
+
+
